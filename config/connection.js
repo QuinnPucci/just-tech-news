@@ -3,7 +3,7 @@ require('dotenv').config()
 
 // Connection to database
 const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PW, {
-    host: 'loaclhost',
+    host: 'localhost',
     dialect: 'mysql',
     port: 3306, 
 })
