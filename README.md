@@ -9,7 +9,11 @@
   - [Contact](#contact)
   
   ## Description
-  Uses Node.js File system and NPM Inquirer to generate a professional REAME file ready to be dropped into any github repository. 
+  A fictional Reddit-like tech news application. Built as a portoflio piece to demonstrate full stack development skills. Includes password hashing for signup security, sessions and user authentication, database models for posts, comments, and users.
+  
+  Technologies used: 
+    front-end: Handlebars, CSS, JavaScript
+    back-end: NodeJS, ExpressJS, MySQL, sequelize, express-session(sessions and cookies), bcrypt(password hashing)
   
   ## Usage
   To test and use simply launch the app (deployed on heroku in link above) and signup
