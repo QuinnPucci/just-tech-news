@@ -10,9 +10,8 @@
   
   ## Description
   A fictional Reddit-like tech news application. Built as a portoflio piece to demonstrate full stack development skills. Includes password hashing for signup security, sessions and user authentication, database models for posts, comments, and users.
-    
     </br>
-    
+  
   Technologies used: 
     - front-end: Handlebars, CSS, JavaScript
     - back-end: NodeJS, ExpressJS, MySQL, sequelize, express-session(sessions and cookies), bcrypt(password hashing)
